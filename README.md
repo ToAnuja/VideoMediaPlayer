@@ -17,7 +17,7 @@ IDE: NetBeans IDE 8.2
 
 Configuratuion: playList.txt is used to play the list of videos by media player
 
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:<path_of_opencv>/opencv-3.4.0/build/lib/
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:<path_of_opencv>/opencv-3.3.0/build/lib/
 
 Run Command: Three arguments shall be given to run videoApplication
 1. videoFile = "/home/user/GunPosn.mpg";  [VideoFile to play]
