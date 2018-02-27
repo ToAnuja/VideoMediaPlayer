@@ -1,5 +1,5 @@
 # VideoMediaPlayer
-Java based "Video Player Application" is to play video, list of video files and video cutter of played videos. Build the uploaded project in following environment before executing the application:                                                                                                           
+Java based "Video Player Application" is to play video, list of video files and video cutter of played videos. Build the uploaded project in following environment before executing it:                                                                                                           
 
 Platform OS: Linux 
 
