@@ -26,8 +26,8 @@ public class Main {
         System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
         // TODO code application logic here
 
-        String videoFile = "/root/Videos/GunPosn.mpg";
-        String pathNAS = "/home/crl/EXTERNAL_DRIVE/";
+        String videoFile = "/home/user/Videos/GunPosn.mpg";
+        String pathNAS = "/home/user/STORAGE_DRIVE/";
         String listFlg = "0";
         
         if (args.length != 0) {
