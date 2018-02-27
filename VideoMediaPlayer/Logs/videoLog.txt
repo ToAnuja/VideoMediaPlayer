@@ -1,0 +1,1 @@
+2018-02-08 15:14:01,379 - MediaPlayer.CommFunction - INFO - CommFunction is called ==ffmpeg -i /root/Videos/Ice_Age_1.mp4 -ss 00:52 -to 00:01:00 -async 1 -strict -2 /home/crl/EXTERNAL_DRIVE/VIDEO_CUTTER/1200_1401_Ice_Age_1.mp4
