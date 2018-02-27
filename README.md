@@ -11,3 +11,4 @@ Lib: jcommon.jar, log4j-1.2.17.jar, opencv-330.jar
 
 IDE: NetBeans IDE 8.2
 
+-Djava.library.path="<path_of_opencv>/opencv-3.3.0/build/lib/" add as VM option in netbeans to compile and run the application from netbeans program
