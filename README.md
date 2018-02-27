@@ -1,7 +1,9 @@
 # VideoMediaPlayer
 Java based Video Player                                                                                                              
 
-Platform OS: Linux
+Platform OS: Linux 
+
+Screen Resolution: 1920X1080
 
 Language: java version "1.8.0_91"
 
