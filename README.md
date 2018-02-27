@@ -19,5 +19,10 @@ Configuratuion: playList.txt is used to play the list of videos by media player
 
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:<path_of_opencv>/opencv-3.4.0/build/lib/
 
-Run Command: java -jar dist/VideoMediaPlayer.jar videoFile.avi 
+Run Command: Three arguments shall be given to run videoApplication
+1. videoFile = "/home/user/GunPosn.mpg";
+2. pathOfStorage = "/home/user/STORAGE_DRIVE/";
+3. listFlg = "0" [1 -> For playing the video files from playList.txt, 0 -> For Not playing the video files from playList.txt]
+
+java -jar dist/VideoMediaPlayer.jar videoFile.avi pathOfStorage listFlg
   
