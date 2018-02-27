@@ -17,5 +17,5 @@ Configuratuion: playList.txt is used to play the list of videos by media player
 
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:<path_of_opencv>/opencv-3.4.0/build/lib/
 
-Run Command: java -jar dist/VideoMediaPlayer.jar <video to play>
+Run Command: java -jar dist/VideoMediaPlayer.jar "<video to play>"
   
