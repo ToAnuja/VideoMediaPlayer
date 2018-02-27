@@ -1,5 +1,5 @@
 # VideoMediaPlayer
-Java based Video Player                                                                                                              
+Java based "Video Player Application" is to play video, list of files of play list and video cutter of played videos. Build the uploaded project in following environment before executing the application:                                                                                                           
 
 Platform OS: Linux 
 
@@ -7,7 +7,7 @@ Screen Resolution: 1920X1080
 
 Language: java version "1.8.0_91"
 
-Environment: opencv-3.3.0 must installed before running this application
+Environment: opencv-3.3.0 or any similar versions must installed before running this application
 
 Lib: jcommon.jar, log4j-1.2.17.jar, opencv-330.jar
 
